@@ -7,4 +7,4 @@
 <img src="Captures/cp2.png">
 
 
-[rapport j2e.docx](..%2Frapport%20j2e.docx)
+[rapport j2e.pdf](..%2Frapport%20j2e.pdf)
